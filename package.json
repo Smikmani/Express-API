@@ -19,7 +19,7 @@
     "helmet-csp": "^2.7.0",
     "joi": "^13.3.0",
     "jwt-simple": "^0.5.1",
-    "mongodb": "^3.0.8",
+    "mongodb": "^3.1.13",
     "morgan": "^1.9.0",
     "response-time": "^2.3.2"
   },
